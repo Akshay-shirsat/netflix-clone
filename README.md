@@ -20,7 +20,9 @@ The site is made for educational purposes!
 npm install npm@latest -g
 
 # Installations
-1.Get a free API Key at [https://www.themoviedb.org/documentation/api]
+1.Get a free API Key at [https://www.themoviedb.org/documentation/api
+
+
 2.Clone the repo
 git clone https://github.com/akshay-shirsat/netflix-clone.git
 
